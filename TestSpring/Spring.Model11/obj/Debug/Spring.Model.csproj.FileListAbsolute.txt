@@ -1,0 +1,12 @@
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\bin\Debug\Spring.Model.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\bin\Debug\Spring.Model.pdb
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\bin\Debug\Common.Logging.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\bin\Debug\Spring.Aop.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\bin\Debug\Spring.Core.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\obj\Debug\Spring.Model.dll
+C:\Users\csj\Documents\Visual Studio 2013\Projects\TestSpring\Spring.Model11\obj\Debug\Spring.Model.pdb
+C:\Users\csj\Desktop\TestSpring\Spring.Model11\bin\Debug\Spring.Model.dll
+C:\Users\csj\Desktop\TestSpring\Spring.Model11\bin\Debug\Spring.Model.pdb
+C:\Users\csj\Desktop\TestSpring\Spring.Model11\obj\Debug\Spring.Model.csprojResolveAssemblyReference.cache
+C:\Users\csj\Desktop\TestSpring\Spring.Model11\obj\Debug\Spring.Model.dll
+C:\Users\csj\Desktop\TestSpring\Spring.Model11\obj\Debug\Spring.Model.pdb
